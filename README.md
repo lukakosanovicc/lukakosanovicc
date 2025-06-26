@@ -1,3 +1,9 @@
+<style>
+  a {
+    text-decoration: none;
+  }
+</style>
+
 <h1 align="center">Just a curious high school student here! 👋</h1>
 
 ### 💻 Skills
