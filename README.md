@@ -1,7 +1,7 @@
 <h1 align="center">Just a curious high school student here! 👋</h1>
 
 ### 💻 Skills
-<p align="center">
+<div align="center">
   <a href="https://www.geeksforgeeks.org/c/c-17-standard/">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   </a>
@@ -20,6 +20,6 @@
   <a href="https://en.wikipedia.org/wiki/CSS">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   </a>
-</p>
+</div>
 
 <!-- https://gprm.itsvg.in/ -->
