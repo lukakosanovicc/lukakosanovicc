@@ -11,3 +11,5 @@
 </p>
 
 <!-- https://gprm.itsvg.in/ -->
+
+[Github gists (small projects)](https://gist.github.com/lukakosanovicc)
