@@ -14,3 +14,4 @@
 
 ### 🔗 Links
 - [Github gists (small projects)](https://gist.github.com/lukakosanovicc)
+- [LinkedIn](https://www.linkedin.com/in/luka-kosanovicc/)
