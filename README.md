@@ -8,6 +8,7 @@
   <a href="https://www.markdownguide.org/" style: text-decoration: none;> <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" /> </a>
   <a href="https://en.wikipedia.org/wiki/HTML5" style: text-decoration: none;> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> </a>
   <a href="https://en.wikipedia.org/wiki/CSS" style: text-decoration: none;> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> </a>
+  <a href="https://en.wikipedia.org/wiki/JavaScript" style: text-decoration: none;> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /> </a>
 </p>
 
 <!-- https://gprm.itsvg.in/ -->
