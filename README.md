@@ -14,6 +14,6 @@
 <!-- https://gprm.itsvg.in/ -->
 
 ### 🔗 Links
-- [Github gists (small projects)](https://gist.github.com/lukakosanovicc)
+- [Github gists (small scripts)](https://gist.github.com/lukakosanovicc)
 - [LinkedIn](https://www.linkedin.com/in/luka-kosanovicc/)
 - [Email me](mailto:lukakosanoviclule@gmail.com)
