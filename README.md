@@ -16,4 +16,4 @@
 ### 🔗 Links
 - [Github gists (small scripts)](https://gist.github.com/lukakosanovicc)
 - [LinkedIn](https://www.linkedin.com/in/luka-kosanovicc/)
-- [Email me](mailto:lukakosanoviclule@gmail.com)
+- [Email me](mailto:&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#108;&#117;&#107;&#097;&#107;&#111;&#115;&#097;&#110;&#111;&#118;&#105;&#099;&#108;&#117;&#108;&#101;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;)
